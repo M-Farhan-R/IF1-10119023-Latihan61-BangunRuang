@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan61.bangunruang;
  * NAMA              : Muhammad Farhan R  
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program : 
+ * Deskripsi Program : Program menghitung volume bangun ruang
  *
  */
 import java.text.DecimalFormatSymbols;
